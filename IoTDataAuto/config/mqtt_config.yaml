@@ -1,10 +1,9 @@
-mqttclient:
-    vpp01:
-        name: "项目名称"
-        host: "mqtt://"
-        port: 1883
-        client_id: "mqttx_84a3b646"
-        username: ""
-        passwaord: ""
-        topic_subscribe: "iot/test"
-        topic_publish: ""
+vpp01:
+      name: "项目名称"
+      host: "vpp.energyfocus.cloud"
+      client_id: "mqttx_a121b58c"
+      username: "admin"
+      password: 'lyny0102'
+      port: 1883
+      topic_subscribe: "GET/PMC-350/3307138007/upload"
+      topic_publish: ""
