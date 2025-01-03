@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author  : WuJiLiu
 # @Pseudonym : ToyRocket 
-# @FileName: __init__.py.py
+# @FileName: mqtt_client.py
 # @Software: PyCharm
-# @Time    : 2025/1/2 18:08
+# @Time    : 2025/1/3 9:59
 # @Email   : 1151905906@qq.com
