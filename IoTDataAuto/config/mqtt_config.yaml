@@ -1,0 +1,10 @@
+mqttclient:
+    vpp01:
+        name: "项目名称"
+        host: "mqtt://"
+        port: 1883
+        client_id: "mqttx_84a3b646"
+        username: ""
+        passwaord: ""
+        topic_subscribe: "iot/test"
+        topic_publish: ""

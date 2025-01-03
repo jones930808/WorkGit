@@ -1,0 +1,13 @@
+mongodb:
+  host: ""
+  port:
+  user: ""
+  password: ""
+  database: ""
+
+mysql:
+  host: ""
+  port:
+  user: ""
+  password: ""
+  database: ""
